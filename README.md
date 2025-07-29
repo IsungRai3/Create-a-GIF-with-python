@@ -1,6 +1,6 @@
 # 🖼️ Create GIF from Images using Python
 
-This project contains a Python script that generates an animated GIF from a list of image files using the `imageio` library.
+This project contains a Python script that generates an animated GIF from a list of image files using the imageio library.
 
 ## 📌 Features
 
